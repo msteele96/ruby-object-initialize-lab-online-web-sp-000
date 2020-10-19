@@ -1,6 +1,6 @@
 class Person
 
-def initialize(name,breed="Mutt")
+def initialize(name)
 
 end
 
